@@ -1,4 +1,4 @@
-# Install software on your computer
+﻿# Install software on your computer
 
 
 ### Install [git](http://git-scm.com/).
@@ -48,13 +48,17 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
+I'm using 2.7 – Python 3 often uses simpler syntax, so I expect it to be easier to transition from 2 to 3 than the reverse.  
+
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ###Q2. Which Python Version Installed   
+Version 2.7.11 is my default version and the version I plan to use, but I also have 3.4 installed in case it's needed. (Version 2.7 initiates if I enter “python” in the terminal but I can initiate 3.4 by calling the version number specifically.)
 
+ 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I would just call “python” from the command line and see which version is listed in the documentation when the interpreter starts running.
 
  
 
