@@ -1,4 +1,4 @@
-# Choose and learn your editor(s)
+﻿# Choose and learn your editor(s)
 
 
 Computing's interface is text. To work effectively, you need to be fluent with this interface.
@@ -60,7 +60,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I'll try out Nano. I've encountered it before (mostly by accident) and I like its simplicity. I'm planning to use a graphical editor so ease of use is important to me in my terminal editor.
 
 --
 
@@ -68,6 +68,5 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I'll be mostly using Sublime Text 2. I've used it in the past and am comfortable with it, plus it encourages me to constantly save my work in order to run my code from the command line. My favorite shortcut is F11 – enter/exit fullscreen, and my favorite tool is word wrap (with selectable column widths so you can easily code with reference info up on your screen). I like using the default color schemes because I've done pair programming in the past and it's nice if other people who look at the code can recognize the meanings of the color scheme.
 
- 
